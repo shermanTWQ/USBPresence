@@ -1,0 +1,11 @@
+c:\users\vmadministrator\documents\visual studio 2015\Projects\USBPresence\USBPresence\bin\Debug\USBPresence.exe.config
+C:\Users\VMadministrator\Documents\Visual Studio 2015\Projects\USBPresence\USBPresence\bin\Debug\USBPresence.exe
+C:\Users\VMadministrator\Documents\Visual Studio 2015\Projects\USBPresence\USBPresence\bin\Debug\USBPresence.pdb
+C:\Users\VMadministrator\Documents\Visual Studio 2015\Projects\USBPresence\USBPresence\bin\Debug\USBPresence.xml
+C:\Users\VMadministrator\Documents\Visual Studio 2015\Projects\USBPresence\USBPresence\obj\Debug\USBPresence.vbprojResolveAssemblyReference.cache
+C:\Users\VMadministrator\Documents\Visual Studio 2015\Projects\USBPresence\USBPresence\obj\Debug\USBPresence.Resources.resources
+C:\Users\VMadministrator\Documents\Visual Studio 2015\Projects\USBPresence\USBPresence\obj\Debug\USBPresence.vbproj.GenerateResource.Cache
+C:\Users\VMadministrator\Documents\Visual Studio 2015\Projects\USBPresence\USBPresence\obj\Debug\USBPresence.exe
+C:\Users\VMadministrator\Documents\Visual Studio 2015\Projects\USBPresence\USBPresence\obj\Debug\USBPresence.xml
+C:\Users\VMadministrator\Documents\Visual Studio 2015\Projects\USBPresence\USBPresence\obj\Debug\USBPresence.pdb
+C:\Users\VMadministrator\Documents\Visual Studio 2015\Projects\USBPresence\USBPresence\obj\Debug\USBPresence.USBPresence.resources
